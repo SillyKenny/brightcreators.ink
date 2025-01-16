@@ -205,3 +205,7 @@ section h1{
   font-family: "Afacad Flux", serif;
   text-align: center;
 }
+
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}
