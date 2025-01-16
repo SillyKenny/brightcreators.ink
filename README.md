@@ -12,14 +12,15 @@ a Website made for [coolguy](https://rec.net/user/Coolguy2710) & his team @ brig
     1. HTML
     2. CSS
     3. JS
+    4. Google Sheets Scripting
 
 
 **Hosts:** 
 
     1. Image hosting:
         1. ImgBB
-    2. GitHub Web Hosting:
-        1. GitHub Pages
+    2. Web Hosting:
+        1. BlueHost
 
 
 **Software:** 
@@ -33,11 +34,14 @@ a Website made for [coolguy](https://rec.net/user/Coolguy2710) & his team @ brig
 - Submitable Forms that go straight to the team & devs.
 - Sleek, & Creative design
 - Organized & always updated
+
 ## Support
 
 For TECH support, email [kenny](mailto:kenny@thekennycreative.org).
 
-For Talking to brightcreators.ink, message [Coolguy2710](https://rec.net/user/Coolguy2710) on recroom..
+For Talking to brightcreators.ink, message [Coolguy2710](https://rec.net/user/Coolguy2710) on recroom.
+
+*Alternatively join the discord, to talk to anybody.* [discord server](https://discord.gg/Bw7x23P6E9)
 
 
 ## Screenshots
