@@ -12,7 +12,8 @@ a Website made for [coolguy](https://rec.net/user/Coolguy2710) & his team @ brig
     1. HTML
     2. CSS
     3. JS
-    4. Google Sheets Scripting
+       1. Google Sheets Scripting
+       2. darkmode.js (library)
 
 
 **Hosts:** 
